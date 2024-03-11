@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Ligeet</title>
-    <link>http://localhost:1313/ar/blog/</link>
+    <link>https://ligeet.com/ar/blog/</link>
     <description>Recent content in Blogs on Ligeet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar-sd</language>
     <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés</copyright>
     <lastBuildDate>Sun, 10 Mar 2024 17:36:54 +0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/ar/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ligeet.com/ar/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>حذف الحساب</title>
-      <link>http://localhost:1313/ar/blog/delete-your-account/</link>
+      <link>https://ligeet.com/ar/blog/delete-your-account/</link>
       <pubDate>Sun, 10 Mar 2024 17:36:54 +0400</pubDate>
-      <guid>http://localhost:1313/ar/blog/delete-your-account/</guid>
+      <guid>https://ligeet.com/ar/blog/delete-your-account/</guid>
       <description>لحذف حسابك والمعلومات المرتبطة به (رقم الهاتف، البريد الإلكتروني، اسم المستخدم، كلمة المرور، الاسم الكامل، الوظيفة، والعمر) في تطبيق لقيت، يرجى اتباع الخطوات التالية:</description>
     </item>
     <item>
       <title>تغيير لغة البرنامج</title>
-      <link>http://localhost:1313/ar/blog/change-language/</link>
+      <link>https://ligeet.com/ar/blog/change-language/</link>
       <pubDate>Tue, 11 Aug 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/change-language/</guid>
+      <guid>https://ligeet.com/ar/blog/change-language/</guid>
       <description>عند فتح التطبيق لأول مرة, فإن لغة تكون مطابقة للغة الجوال&#xA;يدعم التطبيق اللغتين العربية والإنجليزية</description>
     </item>
     <item>
       <title>كيف تبحث عن الدواء</title>
-      <link>http://localhost:1313/ar/blog/search-medicine/</link>
+      <link>https://ligeet.com/ar/blog/search-medicine/</link>
       <pubDate>Mon, 10 Aug 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/search-medicine/</guid>
+      <guid>https://ligeet.com/ar/blog/search-medicine/</guid>
       <description>بمجرد تسجيلك لحساب في تطبيق لقيت, يمكنك البدء بالبحث عن الأدوية في الصيدليات المحيطة بك.</description>
     </item>
     <item>
       <title>إضافة صيدلية جديدة لتطبيق لقيت</title>
-      <link>http://localhost:1313/ar/blog/add-new-pharmacy/</link>
+      <link>https://ligeet.com/ar/blog/add-new-pharmacy/</link>
       <pubDate>Sat, 01 Aug 2020 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/add-new-pharmacy/</guid>
+      <guid>https://ligeet.com/ar/blog/add-new-pharmacy/</guid>
       <description>لإضافة صيدليتك إلى مجموعة صيدليات لقيت قم ملئ الفورم الموجود على الرابط التالي استمارة التسجيل</description>
     </item>
     <item>
       <title>إنشاء حساب جديد</title>
-      <link>http://localhost:1313/ar/blog/create-user-account/</link>
+      <link>https://ligeet.com/ar/blog/create-user-account/</link>
       <pubDate>Sun, 12 Jul 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/create-user-account/</guid>
+      <guid>https://ligeet.com/ar/blog/create-user-account/</guid>
       <description>لإنشاء حساب جديد يرجى اتباع الخطوات التالية&#xA;اضغط علي (انشاء حساب جديد) في اسفل الشاشة الموبايل, كما هو وضح في الصورة التالية</description>
     </item>
     <item>
       <title>استعادة كلمة السر في تطبيق لقيت</title>
-      <link>http://localhost:1313/ar/blog/password-restore/</link>
+      <link>https://ligeet.com/ar/blog/password-restore/</link>
       <pubDate>Wed, 01 Jul 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/password-restore/</guid>
+      <guid>https://ligeet.com/ar/blog/password-restore/</guid>
       <description>في حال نسيت كلمة السر, يمكنك استعادتها باتباع الخطوات أدناه&#xA;(ملحوظة : لابد أن تكون مسجلا بريدك الإلكتروني مسبقا في التطبيق )</description>
     </item>
   </channel>

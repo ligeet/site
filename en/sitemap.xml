@@ -2,194 +2,194 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://ligeet.com/blog/</loc>
     <lastmod>2024-03-10T17:36:54+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/blog/"
+                href="https://ligeet.com/ar/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/blog/"
+                href="https://ligeet.com/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/delete-your-account/</loc>
+    <loc>https://ligeet.com/blog/delete-your-account/</loc>
     <lastmod>2024-03-10T17:36:54+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/blog/delete-your-account/"
+                href="https://ligeet.com/ar/blog/delete-your-account/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/blog/delete-your-account/"
+                href="https://ligeet.com/blog/delete-your-account/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ligeet.com/</loc>
     <lastmod>2024-03-10T17:36:54+04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/"
+                href="https://ligeet.com/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/"
+                href="https://ligeet.com/"
                 />
   </url><url>
-    <loc>http://localhost:1313/policy/</loc>
+    <loc>https://ligeet.com/policy/</loc>
     <lastmod>2020-08-24T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/policy/"
+                href="https://ligeet.com/ar/policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/policy/"
+                href="https://ligeet.com/policy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/policy/terms/</loc>
+    <loc>https://ligeet.com/policy/terms/</loc>
     <lastmod>2020-08-24T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/policy/terms/"
+                href="https://ligeet.com/ar/policy/terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/policy/terms/"
+                href="https://ligeet.com/policy/terms/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/change-language/</loc>
+    <loc>https://ligeet.com/blog/change-language/</loc>
     <lastmod>2020-08-11T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/blog/change-language/"
+                href="https://ligeet.com/ar/blog/change-language/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/blog/change-language/"
+                href="https://ligeet.com/blog/change-language/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/search-medicine/</loc>
+    <loc>https://ligeet.com/blog/search-medicine/</loc>
     <lastmod>2020-08-10T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/blog/search-medicine/"
+                href="https://ligeet.com/ar/blog/search-medicine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/blog/search-medicine/"
+                href="https://ligeet.com/blog/search-medicine/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/add-new-pharmacy/</loc>
+    <loc>https://ligeet.com/blog/add-new-pharmacy/</loc>
     <lastmod>2020-08-01T14:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/blog/add-new-pharmacy/"
+                href="https://ligeet.com/ar/blog/add-new-pharmacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/blog/add-new-pharmacy/"
+                href="https://ligeet.com/blog/add-new-pharmacy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/create-user-account/</loc>
+    <loc>https://ligeet.com/blog/create-user-account/</loc>
     <lastmod>2020-07-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/blog/create-user-account/"
+                href="https://ligeet.com/ar/blog/create-user-account/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/blog/create-user-account/"
+                href="https://ligeet.com/blog/create-user-account/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/password-restore/</loc>
+    <loc>https://ligeet.com/blog/password-restore/</loc>
     <lastmod>2020-07-01T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/blog/password-restore/"
+                href="https://ligeet.com/ar/blog/password-restore/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/blog/password-restore/"
+                href="https://ligeet.com/blog/password-restore/"
                 />
   </url><url>
-    <loc>http://localhost:1313/author/</loc>
+    <loc>https://ligeet.com/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/author/"
+                href="https://ligeet.com/ar/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/author/"
+                href="https://ligeet.com/author/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ligeet.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/categories/"
+                href="https://ligeet.com/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/categories/"
+                href="https://ligeet.com/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/author/john-doe/</loc>
+    <loc>https://ligeet.com/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/author/john-doe/"
+                href="https://ligeet.com/ar/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/author/john-doe/"
+                href="https://ligeet.com/author/john-doe/"
                 />
   </url><url>
-    <loc>http://localhost:1313/author/mark-dinn/</loc>
+    <loc>https://ligeet.com/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/author/mark-dinn/"
+                href="https://ligeet.com/ar/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/author/mark-dinn/"
+                href="https://ligeet.com/author/mark-dinn/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ligeet.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar-sd"
-                href="http://localhost:1313/ar/tags/"
+                href="https://ligeet.com/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                href="https://ligeet.com/tags/"
                 />
   </url>
 </urlset>
