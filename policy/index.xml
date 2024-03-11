@@ -2,26 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policies on Ligeet</title>
-    <link>https://ligeet.com/policy/</link>
+    <link>http://localhost:1313/policy/</link>
     <description>Recent content in Policies on Ligeet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved</copyright>
     <lastBuildDate>Mon, 24 Aug 2020 12:52:36 +0600</lastBuildDate>
-    
-	<atom:link href="https://ligeet.com/policy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/policy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terms of Use</title>
-      <link>https://ligeet.com/policy/terms/</link>
+      <link>http://localhost:1313/policy/terms/</link>
       <pubDate>Mon, 24 Aug 2020 12:52:36 +0600</pubDate>
-      
-      <guid>https://ligeet.com/policy/terms/</guid>
-      <description>Ligeet
-Ligeet is a mobile application for Pharmacies&amp;rsquo; services.
- Table of Contents  Terms &amp;amp; Conditions  Copy Rights Service changes and updates device security Third parties Internet Connection and Fees Service availablity   Terms of Use  Basic Terms General Conditions   Privacy Policy  Information Collection and Use Log Data Cookies Service Providers Security Links to Other Sites Children’s Privacy   Changes to This Policy Contact Us   Terms &amp;amp; Conditions By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.</description>
+      <guid>http://localhost:1313/policy/terms/</guid>
+      <description>Ligeet&#xA;Ligeet is a mobile application for Pharmacies&amp;rsquo; services.&#xA;Table of Contents Terms &amp;amp; Conditions Copy Rights Service changes and updates device security Third parties Internet Connection and Fees Service availablity Terms of Use Basic Terms General Conditions Privacy Policy Information Collection and Use Log Data Cookies Service Providers Security Links to Other Sites Children’s Privacy Changes to This Policy Contact Us Terms &amp;amp; Conditions By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.</description>
     </item>
-    
   </channel>
 </rss>

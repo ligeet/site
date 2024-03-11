@@ -2,26 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Policies on Ligeet</title>
-    <link>https://ligeet.com/ar/policy/</link>
+    <link>http://localhost:1313/ar/policy/</link>
     <description>Recent content in Policies on Ligeet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar-sd</language>
     <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés</copyright>
     <lastBuildDate>Mon, 24 Aug 2020 12:52:36 +0600</lastBuildDate>
-    
-	<atom:link href="https://ligeet.com/ar/policy/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/ar/policy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>سياسات الإستخدام والخصوصية</title>
-      <link>https://ligeet.com/ar/policy/terms/</link>
+      <link>http://localhost:1313/ar/policy/terms/</link>
       <pubDate>Mon, 24 Aug 2020 12:52:36 +0600</pubDate>
-      
-      <guid>https://ligeet.com/ar/policy/terms/</guid>
-      <description>Ligeet
-Ligeet is a mobile application for Pharmacies&amp;rsquo; services.
- Table of Contents  اللوائح والشروط  حقوق النسخ تغيير الخدمات المقدمة من لقيت أمان الجهاز المستخدم الأطراف الخارجية رسوم خدمات الوصول للإنترنت توفر خدمة لقيت   شروط الإستخدام  الشروط الأساسية شروط عامة   سياسة الخصوصية  جمع المعلومات واستخدامها تسجيل البيانات كوكيز مقدمي الخدمة الأمان روابط لمواقع أخرى خصوصية الأطفال   التغييرات على السياسات والشروط اتصل بنا   اللوائح والشروط بتحميلك أو استخدامك للقيت, فإن جميع الشروط والسياسات المنصوص عليها في هذه الوثيقة تنطبق عليك, ولذلك فإننا نرجو أن تقرأها بتمعن قبل استخدامك لخدماتنا</description>
+      <guid>http://localhost:1313/ar/policy/terms/</guid>
+      <description>Ligeet&#xA;Ligeet is a mobile application for Pharmacies&amp;rsquo; services.&#xA;Table of Contents اللوائح والشروط حقوق النسخ تغيير الخدمات المقدمة من لقيت أمان الجهاز المستخدم الأطراف الخارجية رسوم خدمات الوصول للإنترنت توفر خدمة لقيت شروط الإستخدام الشروط الأساسية شروط عامة سياسة الخصوصية جمع المعلومات واستخدامها تسجيل البيانات كوكيز مقدمي الخدمة الأمان روابط لمواقع أخرى خصوصية الأطفال التغييرات على السياسات والشروط اتصل بنا اللوائح والشروط بتحميلك أو استخدامك للقيت, فإن جميع الشروط والسياسات المنصوص عليها في هذه الوثيقة تنطبق عليك, ولذلك فإننا نرجو أن تقرأها بتمعن قبل استخدامك لخدماتنا</description>
     </item>
-    
   </channel>
 </rss>
