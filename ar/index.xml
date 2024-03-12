@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ligeet</title>
-    <link>http://localhost:1313/ar/</link>
+    <link>https://ligeet.com/ar/</link>
     <description>Recent content on Ligeet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar-sd</language>
     <copyright>copyright &amp;copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés</copyright>
     <lastBuildDate>Sun, 10 Mar 2024 17:36:54 +0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/ar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ligeet.com/ar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>حذف الحساب</title>
-      <link>http://localhost:1313/ar/blog/delete-your-account/</link>
+      <link>https://ligeet.com/ar/blog/delete-your-account/</link>
       <pubDate>Sun, 10 Mar 2024 17:36:54 +0400</pubDate>
-      <guid>http://localhost:1313/ar/blog/delete-your-account/</guid>
+      <guid>https://ligeet.com/ar/blog/delete-your-account/</guid>
       <description>لحذف حسابك والمعلومات المرتبطة به (رقم الهاتف، البريد الإلكتروني، اسم المستخدم، كلمة المرور، الاسم الكامل، الوظيفة، والعمر) في تطبيق لقيت، يرجى اتباع الخطوات التالية:</description>
     </item>
     <item>
       <title>سياسات الإستخدام والخصوصية</title>
-      <link>http://localhost:1313/ar/policy/terms/</link>
+      <link>https://ligeet.com/ar/policy/terms/</link>
       <pubDate>Mon, 24 Aug 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/policy/terms/</guid>
+      <guid>https://ligeet.com/ar/policy/terms/</guid>
       <description>Ligeet&#xA;Ligeet is a mobile application for Pharmacies&amp;rsquo; services.&#xA;Table of Contents اللوائح والشروط حقوق النسخ تغيير الخدمات المقدمة من لقيت أمان الجهاز المستخدم الأطراف الخارجية رسوم خدمات الوصول للإنترنت توفر خدمة لقيت شروط الإستخدام الشروط الأساسية شروط عامة سياسة الخصوصية جمع المعلومات واستخدامها تسجيل البيانات كوكيز مقدمي الخدمة الأمان روابط لمواقع أخرى خصوصية الأطفال التغييرات على السياسات والشروط اتصل بنا اللوائح والشروط بتحميلك أو استخدامك للقيت, فإن جميع الشروط والسياسات المنصوص عليها في هذه الوثيقة تنطبق عليك, ولذلك فإننا نرجو أن تقرأها بتمعن قبل استخدامك لخدماتنا</description>
     </item>
     <item>
       <title>تغيير لغة البرنامج</title>
-      <link>http://localhost:1313/ar/blog/change-language/</link>
+      <link>https://ligeet.com/ar/blog/change-language/</link>
       <pubDate>Tue, 11 Aug 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/change-language/</guid>
+      <guid>https://ligeet.com/ar/blog/change-language/</guid>
       <description>عند فتح التطبيق لأول مرة, فإن لغة تكون مطابقة للغة الجوال&#xA;يدعم التطبيق اللغتين العربية والإنجليزية</description>
     </item>
     <item>
       <title>كيف تبحث عن الدواء</title>
-      <link>http://localhost:1313/ar/blog/search-medicine/</link>
+      <link>https://ligeet.com/ar/blog/search-medicine/</link>
       <pubDate>Mon, 10 Aug 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/search-medicine/</guid>
+      <guid>https://ligeet.com/ar/blog/search-medicine/</guid>
       <description>بمجرد تسجيلك لحساب في تطبيق لقيت, يمكنك البدء بالبحث عن الأدوية في الصيدليات المحيطة بك.</description>
     </item>
     <item>
       <title>إضافة صيدلية جديدة لتطبيق لقيت</title>
-      <link>http://localhost:1313/ar/blog/add-new-pharmacy/</link>
+      <link>https://ligeet.com/ar/blog/add-new-pharmacy/</link>
       <pubDate>Sat, 01 Aug 2020 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/add-new-pharmacy/</guid>
+      <guid>https://ligeet.com/ar/blog/add-new-pharmacy/</guid>
       <description>لإضافة صيدليتك إلى مجموعة صيدليات لقيت قم ملئ الفورم الموجود على الرابط التالي استمارة التسجيل</description>
     </item>
     <item>
       <title>إنشاء حساب جديد</title>
-      <link>http://localhost:1313/ar/blog/create-user-account/</link>
+      <link>https://ligeet.com/ar/blog/create-user-account/</link>
       <pubDate>Sun, 12 Jul 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/create-user-account/</guid>
+      <guid>https://ligeet.com/ar/blog/create-user-account/</guid>
       <description>لإنشاء حساب جديد يرجى اتباع الخطوات التالية&#xA;اضغط علي (انشاء حساب جديد) في اسفل الشاشة الموبايل, كما هو وضح في الصورة التالية</description>
     </item>
     <item>
       <title>استعادة كلمة السر في تطبيق لقيت</title>
-      <link>http://localhost:1313/ar/blog/password-restore/</link>
+      <link>https://ligeet.com/ar/blog/password-restore/</link>
       <pubDate>Wed, 01 Jul 2020 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/ar/blog/password-restore/</guid>
+      <guid>https://ligeet.com/ar/blog/password-restore/</guid>
       <description>في حال نسيت كلمة السر, يمكنك استعادتها باتباع الخطوات أدناه&#xA;(ملحوظة : لابد أن تكون مسجلا بريدك الإلكتروني مسبقا في التطبيق )</description>
     </item>
     <item>
       <title>John Doe</title>
-      <link>http://localhost:1313/ar/author/john-doe/</link>
+      <link>https://ligeet.com/ar/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ar/author/john-doe/</guid>
+      <guid>https://ligeet.com/ar/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>http://localhost:1313/ar/author/mark-dinn/</link>
+      <link>https://ligeet.com/ar/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ar/author/mark-dinn/</guid>
+      <guid>https://ligeet.com/ar/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
   </channel>
